@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Framework_EGC", "Framework_EGC.vcxproj", "{FB43B467-42CC-458C-9556-597B025830F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Teme", "Teme", "{46964EF1-CD66-4060-9E8C-F6B45A54E6A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BowAndArrow", "BowAndArrow", "{FFF43E25-5653-4AA6-9E48-6AF4A1A7422D}"
+	ProjectSection(SolutionItems) = preProject
+		..\Source\Laboratoare\Laborator3\Transform2D.h = ..\Source\Laboratoare\Laborator3\Transform2D.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB43B467-42CC-458C-9556-597B025830F7}.Debug|x64.ActiveCfg = Debug|x64
+		{FB43B467-42CC-458C-9556-597B025830F7}.Debug|x64.Build.0 = Debug|x64
+		{FB43B467-42CC-458C-9556-597B025830F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB43B467-42CC-458C-9556-597B025830F7}.Debug|x86.Build.0 = Debug|Win32
+		{FB43B467-42CC-458C-9556-597B025830F7}.Release|x64.ActiveCfg = Release|x64
+		{FB43B467-42CC-458C-9556-597B025830F7}.Release|x64.Build.0 = Release|x64
+		{FB43B467-42CC-458C-9556-597B025830F7}.Release|x86.ActiveCfg = Release|Win32
+		{FB43B467-42CC-458C-9556-597B025830F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FFF43E25-5653-4AA6-9E48-6AF4A1A7422D} = {46964EF1-CD66-4060-9E8C-F6B45A54E6A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6AF7693-00F9-4FBA-86CF-B0C71025512D}
+	EndGlobalSection
+EndGlobal
